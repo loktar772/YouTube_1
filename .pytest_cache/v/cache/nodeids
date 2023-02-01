@@ -1,0 +1,4 @@
+[
+  "pom/test_homepage.py::TestHomepage::test_nav_links",
+  "tests/test_1.py::TestHomepage::test_homepage"
+]

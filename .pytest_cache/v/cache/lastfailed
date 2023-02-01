@@ -1,0 +1,5 @@
+{
+  "tests/test_homepage.py": true,
+  "tests/test_1.py::TestHomepage::test_homepage": true,
+  "pom/test_homepage.py::TestHomepage::test_nav_links": true
+}
